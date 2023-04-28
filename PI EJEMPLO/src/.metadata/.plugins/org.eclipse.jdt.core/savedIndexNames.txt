@@ -1,2 +1,0 @@
-INDEX VERSION 1.132+C:\Users\Usuario\Documents\GitHub\UTN-LucasDiezPe-Trabajos\PI EJEMPLO\src\.metadata\.plugins\org.eclipse.jdt.core
-1696264553.index
