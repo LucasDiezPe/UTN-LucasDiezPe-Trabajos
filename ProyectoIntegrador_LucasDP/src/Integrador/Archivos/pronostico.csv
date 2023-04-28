@@ -1,2 +1,8 @@
-A;1;1;Argentina;GANADOR;2;0;PERDEDOR;Arabia Saudita
-A;1;2;Polonia;EMPATADOS;1;1;EMPATADOS;Mexico
+Mariana;1;1;Argentina;GANADOR;2;0;PERDEDOR;Arabia Saudita
+Mariana;1;2;Polonia;EMPATADOS;1;1;EMPATADOS;Mexico
+Mariana;1;3;Argentina;GANADOR;3;0;PERDEDOR;Mexico
+Mariana;1;4;Arabia Saudita;PERDEDOR;1;2;GANADOR;Polonia
+Pedro;1;1;Argentina;GANADOR;3;1;PERDEDOR;Arabia Saudita
+Pedro;1;2;Polonia;PERDEDOR;0;1;GANADOR;Mexico
+Pedro;1;3;Argentina;GANADOR;4;2;PERDEDOR;Mexico
+Pedro;1;4;Arabia Saudita;EMPATADOS;0;0;EMPATADOS;Polonia
